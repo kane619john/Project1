@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<widget appId="juewang" channelCode="0000" height="480" pid="" sreensize="4.5" version="00.00.1000" viewmode="application" widgetId="" width="320">
+    <name>选王之剑</name>
+    <statusbar color="#00000000"/>
+    <description/>
+    <author email="">绝汪</author>
+    <icon src="icon.png"/>
+    <license href=""/>
+    <content encoding="utf-8" src="index.html"/>
+    <updateurl/>
+    <logserverip/>
+    <showmyspace>false</showmyspace>
+    <obfuscation>false</obfuscation>
+    <bgcolor>#fefefe</bgcolor>
+    <orientation>2</orientation>
+    <error src=""/>
+    <removeloading>true</removeloading>
+    <partobfuscation>false</partobfuscation>
+    <webapp>false</webapp>
+    <hidestatusbar/>
+    <debug/>
+</widget>
